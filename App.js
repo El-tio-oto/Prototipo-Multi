@@ -22,7 +22,7 @@ import { BlurView } from 'expo-blur';
 import * as ImageManipulator from 'expo-image-manipulator';
 import { Ionicons, MaterialCommunityIcons } from '@expo/vector-icons';
 
-// --- Importaciones de la nueva arquitectura modular (en español) ---
+// --- Importaciones de la nueva arquitectura modular  ---
 import { supabase } from './src/lib/supabase';
 import { obtenerDistancia } from './src/utils/geolocalizacion';
 import TarjetaSpot from './src/components/TarjetaSpot';
